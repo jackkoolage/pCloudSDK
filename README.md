@@ -1,4 +1,4 @@
-## DeezerSDK
+## pCloudSDK
 
 `Download:`[https://github.com/jackkoolage/pCloudSDK/releases](https://github.com/jackkoolage/pCloudSDK/releases)<br>
 `Help:`[https://github.com/jackkoolage/pCloudSDK/wiki](https://github.com/jackkoolage/pCloudSDK/wiki)<br>
