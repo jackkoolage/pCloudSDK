@@ -17,102 +17,101 @@
 
 # List of functions:
 **Token**
-1. Register
-1. GetAuthToken
+> * Register
+> * GetAuthToken
 
 **Account**
-1. IP
-1. ListInvites
-1. GetRegistrationPageUrl
-1. GetCurrentServer
-1. DeleteToken
-1. ListTokens
-1. ChangeMail
-1. UserInfo
-1. ResendActivationMail
+> * IP
+> * ListInvites
+> * GetRegistrationPageUrl
+> * GetCurrentServer
+> * DeleteToken
+> * ListTokens
+> * ChangeMail
+> * UserInfo
+> * ResendActivationMail
 
 **Files**
-1. ThumbnailUrl
-1. CompressAsync
-1. Copy
-1. DownloadAsZip
+> * ThumbnailUrl
+> * CompressAsync
+> * Copy
+> * DownloadAsZip
 
 **File**
-1. Public
-1. Thumbnail
-1. ThumbnailUrl
-1. CopyThumbnail
-1. VideoToMp3
-1. AudioDirectUrl
-1. ChangesHistory
-1. CompressAsync
-1. UnCompressTaskProgress
-1. UnCompressAsync
-1. DirectUrl
-1. VideoDirectUrl
-1. VideoResolutionUrls
-1. Checksum
-1. Move
-1. Rename
-1. Delete
-1. Copy
-1. ZipBytesArray
+> * Public
+> * Thumbnail
+> * ThumbnailUrl
+> * CopyThumbnail
+> * VideoToMp3
+> * AudioDirectUrl
+> * ChangesHistory
+> * CompressAsync
+> * UnCompressTaskProgress
+> * UnCompressAsync
+> * DirectUrl
+> * VideoDirectUrl
+> * VideoResolutionUrls
+> * Checksum
+> * Move
+> * Rename
+> * Delete
+> * Copy
+> * ZipBytesArray
 
 **Folder**
-1. Public
-1. DirectZipUrl
-1. CompressAsync
-1. CompressTaskProgress
-1. ListSubFoldersTree
-1. List
-1. ListWithoutFiles
-1. ListWithoutShared
-1. Create
-1. CreateIfNotExists
-1. Rename
-1. Copy
-1. Delete
-1. Move
-1. UploadRemoteAsync
-1. UploadRemote
-1. UploadRemoteMultipleAsync
-1. UploadRemoteMultiple
-1. UploadRemoteReportProgress
-1. UploadLocal
+> * Public
+> * DirectZipUrl
+> * CompressAsync
+> * CompressTaskProgress
+> * ListSubFoldersTree
+> * List
+> * ListWithoutFiles
+> * ListWithoutShared
+> * Create
+> * CreateIfNotExists
+> * Rename
+> * Copy
+> * Delete
+> * Move
+> * UploadRemoteAsync
+> * UploadRemote
+> * UploadRemoteMultipleAsync
+> * UploadRemoteMultiple
+> * UploadRemoteReportProgress
+> * UploadLocal
 
 **Folders**
-1. CompressAsync
+> * CompressAsync
 
 **Publics**
-1. Metadata
-1. SingleFileDirectUrl
-1. FileInFolderDirectUrl
-1. SaveToMyAccount
-1. SaveToMyAccount
-1. List
-1. ListWithoutMetadata
-1. DownloadAsZip
-1. DirectZipUrl
-1. Thumbnail
-1. ThumbnailUrl
-1. CopyThumbnail
-1. CopyZip
-1. VideoResolutionUrls
-1. VideoResolutionUrls
-1. AudioDirectUrl
-1. AudioDirectUrl
+> * Metadata
+> * SingleFileDirectUrl
+> * FileInFolderDirectUrl
+> * SaveToMyAccount
+> * SaveToMyAccount
+> * List
+> * ListWithoutMetadata
+> * DownloadAsZip
+> * DirectZipUrl
+> * Thumbnail
+> * ThumbnailUrl
+> * CopyThumbnail
+> * CopyZip
+> * VideoResolutionUrls
+> * VideoResolutionUrls
+> * AudioDirectUrl
 
 **Playlists**
-1. ChangeFilePosition
-1. Rename
-1. List
-1. Clear
-1. Remove
-1. Add
-1. Metadata
-1. Delete
-1. Create
-1. Public
+> * ChangeFilePosition
+> * Rename
+> * List
+> * Clear
+> * Remove
+> * Add
+> * Metadata
+> * Delete
+> * Create
+> * Public
 
 # CodeMap:
 ![codemap](https://i.postimg.cc/bJ6Y9FW3/pc-codemap.png)
